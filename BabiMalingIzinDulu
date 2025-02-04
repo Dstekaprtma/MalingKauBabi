@@ -1,19 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="DWstream" group-title="🔴Nendang Bola 4Feb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXP2-Wk6kKvkSjZ3u9aiqeAIsuedbzRj9F3S-2axfTou0ikJudHruOnU&amp;s=10" group-logo="",Chelsea vs West Ham United - 03:00 WIB 04-02-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=19134566
-#EXTINF:-1 tvg-id="DWstream" group-title="🔴Nendang Bola 4Feb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NADwwLjIxnCsf4kRweHaKVA6pzbdX4d9J45jG3Dq1aq0P8YgKIZkVR0&amp;s=10" group-logo="",Cagliari vs Lazio - 02:45 WIB 04-02-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=19155289
-#EXTINF:-1 tvg-id="DWstream" group-title="🔴Nendang Bola 4Feb" tvg-logo="https://thumbor.prod.vidiocdn.com/KgNJnxCha7S8oGeFQhlJKwJ0hWA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28565/girona-vs-las-palmas-423ac8.jpg" group-logo="",Girona vs Las Palmas - 03:00 WIB 04-02-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=19135462
-
 
 
 
@@ -3902,175 +3889,6 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOB" group-title="DWsport-2",ESPN 2 [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/251.ts
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/WKE" group-title="DWsport-2",ESPN 2 [FHD][H265]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/30281.ts
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOL" group-title="DWsport-2",ESPN 2 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/261.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOQ" group-title="DWsport-2",ESPN 2 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/267.ts
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOE" group-title="DWsport-2",ESPN 3 [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/254.ts
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/WKA" group-title="DWsport-2",ESPN 3 [FHD][H265]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/30277.ts
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOI" group-title="DWsport-2",ESPN 3 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/258.ts
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOR" group-title="DWsport-2",ESPN 3 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/268.ts
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 [4K]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AZK" group-title="Canais | 4K",ESPN 4 [4K]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/586.ts
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOF" group-title="DWsport-2",ESPN 4 [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/255.ts
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/WKG" group-title="DWsport-2",ESPN 4 [FHD][H265]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/30283.ts
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOM" group-title="DWsport-2",ESPN 4 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/262.ts
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOU" group-title="DWsport-2",ESPN 4 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/271.ts
-#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/ANY" group-title="DWsport-2",ESPN EXTRA [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/248.ts
-#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/WKB" group-title="DWsport-2",ESPN EXTRA [FHD][H265]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/30278.ts
-#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOK" group-title="DWsport-2",ESPN EXTRA [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/260.ts
-#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOT" group-title="DWsport-2",ESPN EXTRA [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/270.ts
-#EXTINF:-1 tvg-id="BR - Globo" tvg-name="ESPN [4K]" tvg-logo="" group-title="Canais | 4K",ESPN [4K]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/50872.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [4K]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AZT" group-title="Canais | 4K",ESPN [4K]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/595.ts
-#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOA" group-title="DWsport-2",ESPN [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/250.ts
-#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD][H265]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/WKD" group-title="DWsport-2",ESPN [FHD][H265]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/30280.ts
-#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOJ" group-title="DWsport-2",ESPN [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/259.ts
-#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AOS" group-title="DWsport-2",ESPN [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/269.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/AWH" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/495.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOU" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93947.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 01 [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VON" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS 01 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63125.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01[ALTER]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOC" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01[ALTER]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/35081.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOO" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63126.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOV" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93948.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02[ALTER]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOD" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02[ALTER]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/35082.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOP" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63127.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOW" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93949.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03[ALTER]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOE" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03[ALTER]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/35083.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOQ" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63128.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOX" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93950.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04[ALTER]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOT" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04[ALTER]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93946.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 05" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOR" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63129.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 05 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOY" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93951.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 06" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOS" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63130.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 06 [ALTER2]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOZ" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06 [ALTER2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/93952.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS [HD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOL" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63123.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS [SD]" tvg-logo="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://n08.icu/VOM" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://pfsv.io:80/PX4336/Pq8113/63124.ts
-
-
 
 
 
@@ -7940,7 +7758,7 @@ https://xyzdddd.mizhls.ru/lb/premium71/index.m3u8
 ========================================================================================================================DS SPORT LIGA ARAB===========================================================================
 
 
-#EXTINF:-1 group-title="•Liga Arab•" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/ZhFG7WX/20250122-121404.jpg",SSC 1
+#EXTINF:-1 group-title="•Liga Arab•" tvg-id="SSC 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiadVQ930H_dY_2GYa4BZcqttgzXWigAkENsmqUtq3sxZdRM_GzRHo2HiNLSyIu-k7YA_bDiawQVIuR9mC_rCJe3gxL86vWg1kUV1Ke2yX4VWe9H2oTXuSAVsc1fPmKmkUy1xgkg7cmTJ_bAGlqRn3Gl22M6yxsH97YRFaRIMet9l2IpTE6aYHovOoYW7w/s320/1000050830.jpg",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -8634,3 +8452,6 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-060/stream.mpd
 
 
 
+
+
+<script>
